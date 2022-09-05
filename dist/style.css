@@ -410,10 +410,6 @@ video {
   height: auto;
 }
 
-body  {
-  font-family: 'Prompt', sans-serif;
-}
-
 *, ::before, ::after {
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
@@ -562,6 +558,10 @@ body  {
 
 .text-center {
   text-align: center;
+}
+
+.font-prompt {
+  font-family: 'Prompt', sans-serif;
 }
 
 .text-8xl {
