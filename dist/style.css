@@ -559,3 +559,8 @@ video {
 .text-center {
   text-align: center;
 }
+
+.text-pink-400 {
+  --tw-text-opacity: 1;
+  color: rgb(244 114 182 / var(--tw-text-opacity));
+}
